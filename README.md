@@ -111,7 +111,4 @@ The browser version replaces local RDKit conformation generation with PubChem's 
 
 ---
 
-## License
-
-MIT
 
